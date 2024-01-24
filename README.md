@@ -26,15 +26,6 @@ Welcome to my LeetCode Solutions repository! 🚀 Here, I've compiled a treasure
 
 3. 🤔 Have questions or insights? Open an issue! Let's discuss and learn together.
 
-## Contribution Guidelines
-
-Feel inspired? Want to add your solutions or improve existing ones? Awesome! Contributions are welcome. Here's how:
-
-1. 🍴 Fork this repository.
-2. 🔧 Create a new branch: `git checkout -b feature/your-solution`
-3. ✍️ Make your changes and commit: `git commit -m 'Add some solution'`
-4. 📤 Push to the branch: `git push origin feature/your-solution`
-5. ✔️ Submit a pull request.
 
 ## Acknowledgments
 
@@ -44,4 +35,4 @@ Happy coding! 🌟✨
 
 ---
 
-**Note:** LeetCode-Solutions is a personal repository crafted by Thiago Costa. Feel free to explore, learn, and contribute. Remember, coding is not just about solving problems; it's about enjoying the journey.
+**Note:** LeetCode-Solutions is a personal repository crafted by Thiago Costa. Feel free to explore and learn. Remember, coding is not just about solving problems; it's about enjoying the journey.
