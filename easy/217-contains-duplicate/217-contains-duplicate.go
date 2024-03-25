@@ -1,8 +1,10 @@
-numSet := make(map[int]bool)
-for _, num := range nums {
-	if numSet[num] {
-		return true
+func containsDuplicate(nums []int) bool {
+	numSet := make(map[int]bool)
+	for _, num := range nums {
+		if numSet[num] {
+			return true
+		}
+		numSet[num] = true
 	}
-	numSet[num] = true
+	return false
 }
-return false
